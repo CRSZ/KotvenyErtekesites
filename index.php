@@ -2,7 +2,7 @@
 
 <?php
 
-print "read ..."
+print "sajtosretes"
 
 ?>
 
