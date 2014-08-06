@@ -1,6 +1,0 @@
-valami asdasdadsaadsdsa{
-
-
-return 0;
-
-}
